@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp22", "MauiApp22\MauiApp22\MauiApp22.csproj", "{B0535178-0DF9-4BF9-9CA9-08741A519A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp22.Droid", "MauiApp22\MauiApp22.Droid\MauiApp22.Droid.csproj", "{2D6DEA26-EDB5-40DA-A114-4EFDC7FD9445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp22.WinUI", "MauiApp22\MauiApp22.WinUI\MauiApp22.WinUI.csproj", "{22D9414A-372F-4BA6-B92D-9160088DBD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0535178-0DF9-4BF9-9CA9-08741A519A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0535178-0DF9-4BF9-9CA9-08741A519A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0535178-0DF9-4BF9-9CA9-08741A519A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0535178-0DF9-4BF9-9CA9-08741A519A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6DEA26-EDB5-40DA-A114-4EFDC7FD9445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6DEA26-EDB5-40DA-A114-4EFDC7FD9445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6DEA26-EDB5-40DA-A114-4EFDC7FD9445}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2D6DEA26-EDB5-40DA-A114-4EFDC7FD9445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6DEA26-EDB5-40DA-A114-4EFDC7FD9445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6DEA26-EDB5-40DA-A114-4EFDC7FD9445}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{22D9414A-372F-4BA6-B92D-9160088DBD1E}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{22D9414A-372F-4BA6-B92D-9160088DBD1E}.Debug|Any CPU.Build.0 = Debug|x64
+		{22D9414A-372F-4BA6-B92D-9160088DBD1E}.Release|Any CPU.ActiveCfg = Release|x64
+		{22D9414A-372F-4BA6-B92D-9160088DBD1E}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
