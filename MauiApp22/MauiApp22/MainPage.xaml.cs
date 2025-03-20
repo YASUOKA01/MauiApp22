@@ -54,4 +54,7 @@
         }
     }
 
+    internal class ListaProdutoPage : Page
+    {
+    }
 }
